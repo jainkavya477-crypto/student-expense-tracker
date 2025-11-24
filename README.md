@@ -1,4 +1,4 @@
-Studentt Expense Tracker
+Student Expense Tracker
 
 A simple Python console application designed to help users track their daily expenses and manage their monthly budget effectively.
 
