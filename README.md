@@ -1,4 +1,6 @@
-Student Expense Tracker
+KAVYA JAIN-PYTHON
+tracks daily expenses and manage budget Student Expense Tracker
+project title-Student Expense Tracker
 
 A simple Python console application designed to help users track their daily expenses and manage their monthly budget effectively.
 
