@@ -116,6 +116,4 @@ Flowchart
    │ Return to Menu │◄───────│ Return to Menu    │
    └────────────────┘        └───────────────────┘
 
-Author
 
-Kavya Jain
